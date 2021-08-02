@@ -1,3 +1,7 @@
+---
+title: Stuff and things
+---
+
 # Heading!
 
 I don't know what to name websites. So this is under construction.
