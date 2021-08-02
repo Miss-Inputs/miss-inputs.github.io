@@ -1,6 +1,6 @@
 ---
 date: 2021-08-01
-categories: [test posts]
+categories: [test-posts]
 tags: [tag]
 ---
 
