@@ -1,5 +1,5 @@
 ---
-title: Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist
+title: "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind Heist"
 platform: Windows/Steam
 release: 2015
 dev: Crows Crows Crows
