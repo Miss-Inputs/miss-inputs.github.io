@@ -15,9 +15,11 @@ layout: default
 
 	<div class="date">
 		Posted on: {{ page.date | date_to_string }}<br />
-		{% unless page.played-on == empty or page.date == page.played-on %}
-			Finished on: {{ page.played-on | date_to_string }}
-		{% endunless %}
+		{% if page.played-on %}
+			{% unless page.date == page.played-on %}
+				Finished on: {{ page.played-on | date_to_string }}
+			{% endunless %}
+		{% endif %}
 	</div>
 
 	<hr />

@@ -19,5 +19,5 @@ I don't know what to name websites. So this is under construction.
 Oh yeah so I actually started playing video games this year. I've given myself a task of writing about them all. Not sure why, something to do I guess.
 
 {% for post in site.categories.game-reviews %}
-- [{{ post.title || replace "*", "\*" }} ({{ post.platform }}, {{ post.release}}, {{ post.dev }})]({{ post.url }})
+- [{{ post.title || replace "*", "&#42;" }} ({{ post.platform }}, {{ post.release}}, {{ post.dev }})]({{ post.url }})
 {% endfor %}
