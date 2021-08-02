@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 title: zowayix.github.io
 description: Megan (Zowayix)'s projects and blogs etc
 footer-links:
