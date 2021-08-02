@@ -10,8 +10,7 @@ I don't know what to name websites. So this is under construction.
 # Blog posts
 
 {% for post in site.posts %}
-## [{{ post.title }}]({{ post.url }})
-{{ post.date }}
+## {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
 {{ post.excerpt }}  
 {{ post.categories }}
 {% endfor %}
