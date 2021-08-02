@@ -1,5 +1,5 @@
 ---
-title: H\*rry\* P\*tt\*r and the Ph\*l\*s\*ph\*r's St\*n\*e
+title: H*rry* P*tt*r and the Ph*l*s*ph*r's St*n*e
 platform: GBA
 release: 2001
 dev: Griptonite Games
