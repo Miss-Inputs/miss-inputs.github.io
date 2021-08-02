@@ -4,7 +4,7 @@ footer-links:
   twitter: catgirl_megan
 collections:
   posts:
-    permalink: /blog/:slugified_categories/:slug
+    permalink: /blog/:categories/:slug
 
 defaults:
   -
