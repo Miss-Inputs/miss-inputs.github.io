@@ -1,5 +1,5 @@
 ---
-title: There is no Game: Jam Edition 2015
+title: "There is no Game: Jam Edition 2015"
 platform: Windows/Steam
 release: 2015
 dev: Draw Me a Pixel
