@@ -5,3 +5,10 @@ footer-links:
 collections:
   posts:
     permalink: /blog/:categories/:title
+
+defaults:
+  -
+    scope:
+      path: "game-reviews"
+    values:
+      layout: "game-review"
