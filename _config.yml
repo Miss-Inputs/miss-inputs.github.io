@@ -1,6 +1,6 @@
-theme: jekyll-theme-slate
-title: Stuff and Things
-description: Megan (Zowayix)'s stuff and things
+theme: jekyll-theme-leap-day
+title: zowayix.github.io
+description: Megan (Zowayix)'s projects and blogs etc
 footer-links:
   twitter: catgirl_megan
 collections:
