@@ -4,4 +4,4 @@ footer-links:
   twitter: catgirl_megan
 collections:
   posts:
-    permalink: none
+    permalink: /:categories/:title:output_ext
