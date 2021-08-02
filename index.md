@@ -13,3 +13,11 @@ I don't know what to name websites. So this is under construction.
 ## {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
 {{ post.excerpt }}  
 {% endfor %}
+
+# Game reviews
+
+Oh yeah so I actually started playing video games this year. I've given myself a task of writing about them all. Not sure why, something to do I guess.
+
+{% for post in site.categories.game-reviews %}
+- [{{ post.title }} ({{ post.platform }}, {{ post.release}}, {{ post.dev }})]({{ post.url }})
+{% endfor %}
