@@ -8,10 +8,12 @@ layout: default
 		Platform: {{ page.platform }}<br />
 		Release year: {{ page.release }}<br />
 		Developer: {{ page.dev }}<br />
-		{% if page.play-notes %}
-			{{ page.play-notes }}
+		{% if page.game-notes %}
+			{{ page.game-notes }}
 		{% endif %}
 	</div>
+	
+	<hr />
 
 	<div class="date">
 		Posted on: {{ page.date | date_to_string }}<br />
@@ -19,6 +21,9 @@ layout: default
 			{% unless page.date == page.played-on %}
 				Finished on: {{ page.played-on | date_to_string }}
 			{% endunless %}
+		{% endif %}
+		{% if page.play-notes %}
+			{{ page.play-notes }}
 		{% endif %}
 	</div>
 

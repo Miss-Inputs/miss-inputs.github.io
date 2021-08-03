@@ -3,7 +3,7 @@ title: Maui Mallard in Cold Shadow
 platform: SNES
 release: 1996
 dev: Eurocom
-play-notes: "Originally by Disney Interactive, 1995 on Mega Drive; also known as \"Donald in Maui Mallard\""
+game-notes: "Originally by Disney Interactive, 1995 on Mega Drive; also known as \"Donald in Maui Mallard\""
 ---
 
 The 351ELEC Discord server is having a thing called “Game of the Moment” where some game (emulatable on a RG351x device, of course) is chosen to be a game that everyone is invited to play and have a chat about, just for funsies. This game is the first one, and actually they chose the Mega Drive version, but SNES does what Mega Don’t in terms of sound quality, so I went with that version instead. Actually I have it on Steam, and the Windows 9x port is just the Mega Drive version with CD audio, but running games of that era on modern computers is never really fun to set up.
