@@ -4,7 +4,7 @@ layout: default
 
 <article class="post">
 	<h1>{{ page.title }}</h1>
-	<div class="info">
+	<div class="gameinfo">
 		Platform: {{ page.platform }}<br />
 		Release year: {{ page.release }}<br />
 		Developer: {{ page.dev }}<br />
@@ -15,11 +15,11 @@ layout: default
 	
 	<hr />
 
-	<div class="date">
+	<div class="playinfo">
 		Posted on: {{ page.date | date_to_string }}<br />
 		{% if page.played-on %}
 			{% unless page.date == page.played-on %}
-				Finished on: {{ page.played-on | date_to_string }}
+				Finished on: {{ page.played-on | date_to_string }}<br />
 			{% endunless %}
 		{% endif %}
 		{% if page.play-notes %}

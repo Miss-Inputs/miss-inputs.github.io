@@ -17,7 +17,7 @@ Many other projects that I have forgotten about or abandoned! Maybe some that ar
 Oh yeah so I actually started playing video games this year. I've given myself a task of writing about them all. Not sure why, something to do I guess.
 
 {% for post in site.categories.game-reviews %}
-- [{{ post.title || replace: "*", "\*" }} ({{ post.platform }}, {{ post.release}}, {{ post.dev }}){{%- if post.play-notes -%}} ({{ post.play-notes }}) {{%- endif -%}}]({{ post.url }})
+- [{{ post.title || replace: "*", "\*" }} ({{ post.platform }}, {{ post.release}}, {{ post.dev }}){%- if post.play-notes -%} ({{ post.play-notes }}) {%- endif -%}]({{ post.url }})
 {% endfor %}
 
 # Blog posts (just tests for now)
