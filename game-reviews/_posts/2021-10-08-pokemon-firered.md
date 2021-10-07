@@ -4,6 +4,7 @@ platform: GBA
 release: 2004
 dev: Game Freak
 played-on: 2021-08-18
+play-notes: Replay
 ---
 
 ## Blah blah intro (this section won't be here for other reviews)
@@ -12,12 +13,12 @@ Hello! Apologies for not getting around to posting this for almost over two mont
 I've decided to split reviews up into sections now. Maybe that will help me write them more easily. Maybe I will change my mind, decide it's a bad idea entirely, or go with different sections. Who knows. Maybe it will make the reviews easier to follow for people rather than having a big ol' chunk of text like I have done previously. For whoever does read these.
 
 ## Overview
+![Pokemon are so nice to hug!]({% link game-reviews/images/firered.png %})
 So this is a bit of a non-standard review as I had technically started FireRed like a year ago. It's not at all that it took me that long to finish, just that I ended up forgetting about it competely due to things in life happening and only getting back to it recently. Played it with an actual cart at first, actually, and then on the RG351M once I actually got that. So that save file has been all over the place. I'm not one for Nuzlockes or any kind of challenge runs like that, I like to experience these games as just normal standalone experiences. Controversial opinion these days, I'm just a Pokemon fan. I just felt like playing FireRed at some point, and I felt like continuing it at some point.
 
 For the uninitiated (well, you never know who doesn't know what these days, but anyway it just felt like a good idea to describe the game I'm playing), Pokemon FireRed is one of the pair of Pokemon FireRed and Pokemon LeafGreen, which are remakes of the original Pokemon Red and Green. I can't remember if it's supposed to have a space in it or not, and I don't have the original box and I never trust the internet on such matters. So there are many ways to review it, many sets of expectations to be had, maybe I should just review it as though "does it hold up as just a good monster collecting RPG"? Or just a good vanilla Pokemon game, since I haven't really played many other games in the genre that aren't Pokemon related? Eh, that'll do. That sounds like something I might do. There will be a lot to talk about here, so naturally, I will just ramble about whatever comes to mind and then not end up talking about all of it.
 
 ## What's cool and what isn't
-![Pokemon are so nice to hug!]({% link game-reviews/images/firered.png %})
 
 Right away there's a few things unique to this game (these two games) that are cool. You get some sort of an interactive tutorial (which is OPTIONAL) that you can assign to the L button I think it was, and that'd be good if this was literally your first Pokemon game. You get some guy in a portable TV that acts as an extra tutorial as well if you forget. I just think those things are neat, but there is one feature useful to everyone that deserves a mention. When you load up the game, it tells you where you were up to last! And what you were doing! WOOHOO! To be fair, that wasn't an idea they _completely_ threw away, the gen 4 games do that too. But it's a frickin good idea! Every game that has the technical capability and not-crunching-the-developers-so-hard should do it! They'd all benefit! Sorry I just thought it was neat. Although, since other games don't do that, I end up keeping a separate document that I type up with where I'm up to in each game I'm playing until I complete them anyway…
 
