@@ -6,7 +6,7 @@ dev: DICE
 played-on: 2021-08-28
 ---
 
-#Overview
+## Overview
 What's up gamers. Here's yet another review that I procrastinated because I am bad at life, but also because I didn't want to just be a negative reviewer all the time. I hope nobody reads my reviews as though the conclusion is some kind of exciting surprise that they don't want spoiled for them. Anyway, it's just more GBA shovelware with a short expected completion time. But it is my civic duty as a player of games that nobody else does to inform you about whether it is really that good or not. 
 
 Secret Agent Barbie chronicles the adventures of yet another of Barbie's careers… it's interesting, the joke sometimes made is that Barbie must be a secret agent if she keeps appearing as all these different jobs like an astronaut and a chef and a vet and whatever else, but here she actually is just a secret agent. Not really in disguise as anything else. So that's not so bad, we have an excuse for Barbie to play with all kinds of different gadgets and travel around the world…
@@ -17,7 +17,7 @@ But this is a game for kids, and I'm okay with that part for starters. But that 
 
 ![Screenshot where I have thrown perfume at some guy's face]({% link game-reviews/images/secret_agent_barbie.png %})
 
-#What sucks and what doesn't
+## What sucks and what doesn't
 Well, the music is very cool. Haven't found a GSF rip for it yet, but I want to. It doesn't sound like such a bad game at first, just a simple low-budget game and that is okay, games don't have to be fancy. It has a tutorial which is appreciated, rather than just throwing you into the game with no explanation. Although… given the short length, I'm not really sure how much that would actually be needed, especially when it's for using some gadget that shows up much less than you might expect. Pretty decently animated, I guess. It has some _ideas_, I guess? I like that you can roll around into secret areas, find CDs and shit (note to kids: They aren't music CDs, they are "secret files" because back in 2002 you would plausibly use CD-Rs to store your files outside of your computer, as USB drives weren't cheap enough to be used yet), use the dog (seems to be modelled after those robot dog toys in real life that were popular at the time) to go into small spaces for you, that's not so bad.
 
 The gameplay just doesn't work, though, personally. I guess not being a stealth expert, I can never be too sure if it really is entirely the game, or if there's an aspect of me being an idiot and being shit, but then surely it's actually reasonable if I have the skill level of a 5 year old?
@@ -34,14 +34,14 @@ Even the chase segments at the end of each level don't really work. Not if you w
 
 ![Chasing after some guy on a jetski]({% link game-reviews/images/secret_agent_barbie-jetski_chase.png %})
 
-#Gotchas
+## Gotchas
 Password save. That's unfortunate if you actually do want to play the game thoroughly, and collect all the CDs, and not do that in one sitting, but at least it's better than if there wasn't a save feature at all.
 
 I guess in terms of accessibility, the hacking minigames are based on timings and reactions and might be difficult for players that struggle with that, and that's something to mention considering the whole idea of this game is that it's for kiddos, but then also the game itself is janky and somewhat frustrating anyway, so whaddya do.
 
 Honestly the viewpoint of the game with how zoomed in it is, and how it scrolls around back and forth quite fast, might give people motion sickness. I think someone in the stream chat mentioned it was a bit uncomfy for them?
 
-#Conclusion
+## Conclusion
 In retrospect, this game might actually be the worst. Worse than Cinderella: Magical Dreams? It's even _less_ functional at what it tries to be, honestly. I really want to say I just suck at stealth games, but it didn't really feel like the issue that it was just too difficult. Playing this game, I just wasn't sure how I was supposed to be "good" at it. How the hell would a small child be expected to play this? Would they also just not care too much about getting caught? Am I really _just_ that bad at games? Is it possible that actually nobody in the target audience for this game ever liked this game, but they aren't the ones who write reviews, and it's just adults who make assumptions about how playable a game would be? It didn't exactly get considered game of the year but it was reviewed decently enough by those who did review it at the time.
 
 Well, whoever this DICE company is (I believe they also made a Bratz game for GBC?), they have potential as a developer. I hope they didn't go bankrupt from this game. Imagine if they made a whole blockbuster FPS series or something later on, that'd be funny. Or bought out by EA… nah, I wouldn't wish that on anyone, they seem nice enough to not deserve that. Ha ha! Just a wacky thought. I can't imagine companies that get stuck developing a licensed game like this end up doing much.
