@@ -35,6 +35,8 @@ The game is just falling more and more apart at this point… collision detectio
 
 Not really sure what to say about the rest of the game. At least it's actually the plot of Cinderella now, or at least my understanding of it. Now we have annoying repetitive minigames. Yay. My faaaavourite. Surprised they didn't put a Simon Says minigame in there. And then back to a Cinderella level, except it's a long autoscroller instead of going back and forth doing things, which is somehow… worse? There's kitties that you take damage from, and also weird looking old dudes who at least do look like you should avoid them or that you'd take damage from them. Perspective makes even less sense because sometimes you can jump over barrels and sometimes you're supposed to go around them. Anyway, that's the fourth level, and then… you're the mice again? Uhhh… were they not turned into horses earlier? I don't get it. At least you can ride butter across a table. I like that for some reason. But otherwise, same as usual. Same theme of weird things trying to kill you, like peas. I don't like peas either, but I don't think they cause you to die. And grapes, and droplets of water. And then when you're done with that, you get _another_ mouse level. It's like the people who made this game really wanted to make a 2D platformer where you're a mouse, instead of making the game they were actually assigned to make. There's _almost_ a decent game in there. Almost. But yeah, that's the game.
 
+![a kitty!]({% link game-reviews/images/cinderella-kitty.png %})
+
 There's collectibles in there, but I guess I just didn't really feel like viewing them. Oh well. They would have just been artworks of Cinderella, I guess.
 
 ## Conclusion
