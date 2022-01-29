@@ -11,7 +11,7 @@ played-using: mGBA (libretro)
 
 series: ["Pokemon"]
 genres: ["RPG", "monster collecting RPG", "turn based RPG"]
-tags: ["remake", "paired version", "e-Reader"]
+other-categories: ["remake", "paired version", "e-Reader"]
 accessibility-issues: ["socialization required", "paired version", "time limited events"]
 ---
 

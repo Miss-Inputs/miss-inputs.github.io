@@ -12,7 +12,7 @@ series: Barbie
 protagonist: ["woman", "secret agent"]
 save-method: password
 genres: ["2D platformer", "stealth"]
-tags: ["children's", "licensed", "toy license"]
+other-categories: ["children's", "licensed", "toy license"]
 accessibility-issues: ["timing required"]
 ---
 

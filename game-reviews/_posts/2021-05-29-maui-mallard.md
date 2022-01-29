@@ -10,7 +10,7 @@ played-using: SNES9x (libretro)
 
 series: ["Disney", "Donald Duck"]
 genres: ["2D platformer", "run & gun"]
-tags: ["difficult", "licensed", "character license", "has escort mission"]
+other-categories: ["difficult", "licensed", "character license", "has escort mission"]
 protagonist: ["detective", "ninja", "duck", "animal", "furry", "non-human male"]
 save-method: passwords
 

@@ -10,7 +10,7 @@ played-using: mGBA (libretro)
 
 series: H*rry P*tt*r
 genres: ["action-adventure", "top-down action-adventure", "top-down adventure", "isekai"]
-tags: ["school", "licensed", "book license", "difficult"]
+other-categories: ["school", "licensed", "book license", "difficult"]
 content-warnings: ["problematic source material"]
 accessibility-issues: ["mandatory stealth segment"]
 protagonist: ["boy", "child"]

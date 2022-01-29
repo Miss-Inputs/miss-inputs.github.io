@@ -11,7 +11,7 @@ played-using: mGBA (libretro)
 
 series: Metroid
 genres: ["metroidvania", "run & gun", "horror"]
-tags: ["remake", "partial remake", "space"]
+other-categories: ["remake", "partial remake", "space"]
 protagonist: ["woman"]
 accessibility-issues: ["mandatory stealth segment"]
 save-method: save-points

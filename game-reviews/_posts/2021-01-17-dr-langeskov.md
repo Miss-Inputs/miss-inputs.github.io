@@ -9,7 +9,7 @@ played-on: Linux
 
 protagonist: ["unidentified"]
 genres: ["narrative adventure", "adventure", "narrative", "comedy"]
-tags: ["first person", "short", "free", "easy"]
+other-categories: ["first person", "short", "free", "easy"]
 engine: Unity
 ---
 

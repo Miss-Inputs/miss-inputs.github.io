@@ -10,7 +10,7 @@ played-on: Linux
 
 series: There is No Game
 genres: ["point & click", "adventure", "puzzle", "comedy"]
-tags: ["short", "free", "pixel art"]
+other-categories: ["short", "free", "pixel art"]
 protagonist: ["unidentified"]
 engine: Unity
 ---

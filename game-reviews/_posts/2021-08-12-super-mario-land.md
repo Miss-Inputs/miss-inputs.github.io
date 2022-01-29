@@ -11,7 +11,7 @@ played-using: Gambatte (libretro)
 
 series: ["Mario", "Super Mario", "Super Mario Land"]
 genres: ["2D platformer", "shmup", "horizontal shmup"]
-tags: ["unlockable harder difficulty"]
+other-categories: ["unlockable harder difficulty"]
 save-method: none
 ---
 

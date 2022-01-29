@@ -14,7 +14,7 @@ play-notes: Replay, previously unfinished
 series: ["Mario", "Mario RPG", "Mario & Luigi"]
 genres: ["RPG", "top-down adventure", "RPG with ATB"]
 protagonist: ["man", "multiple protagonists"]
-tags: ["Game Boy Player rumble"]
+other-categories: ["Game Boy Player rumble"]
 accessibility-issues: ["timing required", "colour blindness"]
 technical-notes: Game Boy Player for rumble, but causes issues
 save-method: save points

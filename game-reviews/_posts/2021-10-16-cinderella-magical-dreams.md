@@ -10,7 +10,7 @@ played-using: mGBA
 
 series: ["Disney", "Disney Princesses", "Cinderella"]
 genres: ["2D platformer"]
-tags: ["children's", "licensed", "character license"]
+other-categories: ["children's", "licensed", "character license"]
 protagonist: ["woman", "mouse", "animal", "non-human male", "multiple protagonists"]
 save-method: normal
 can-you-pet-the-cat: no
