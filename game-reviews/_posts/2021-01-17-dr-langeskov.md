@@ -3,6 +3,14 @@ title: "Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald: A Whirlwind H
 platform: Windows/Steam
 release: 2015
 dev: Crows Crows Crows
+available-at: {Steam: https://store.steampowered.com/app/409160/Dr_Langeskov_The_Tiger_and_The_Terribly_Cursed_Emerald_A_Whirlwind_Heist/}
+
+played-on: Linux
+
+protagonist: ["unidentified"]
+genres: ["narrative adventure", "adventure", "narrative", "comedy"]
+tags: ["first person", "short", "free", "easy"]
+engine: Unity
 ---
 
 A walking adventure by the same director as the Stanley Parable? Sign me up! Even if it’s just a free thing that is expectedly short, it should be fine, right? Besides, the name is very long and it sticks out like a sore thumb in my backlog spreadsheet.

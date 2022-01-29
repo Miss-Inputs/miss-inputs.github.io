@@ -5,26 +5,37 @@ layout: default
 <article class="post">
 	<h1>{{ page.title }}</h1>
 	<div class="gameinfo">
+		<small>
 		Platform: {{ page.platform }}<br />
 		Release year: {{ page.release }}<br />
 		Developer: {{ page.dev }}<br />
+		{% if page.game-version %}
+			{{ page.game-version }}
+		{% endif %}
+		
 		{% if page.game-notes %}
 			{{ page.game-notes }}
 		{% endif %}
+		</small>
 	</div>
 	
 	<hr />
 
 	<div class="playinfo">
 		Posted on: {{ page.date | date_to_string }}<br />
-		{% if page.played-on %}
-			{% unless page.date == page.played-on %}
-				Finished on: {{ page.played-on | date_to_string }}<br />
+		{% if page.date-played %}
+			{%- comment -%}Surely comparing two dates isn't this annoying…{%- endcomment -%}
+			{% assign temp = page.date | date: "%Y-%m-%d" %}
+			{% assign temp2 = page.date-played | date: "%Y-%m-%d" %}
+			{% unless temp == temp2 %}
+				Finished on: {{ page.date-played | date_to_string }}<br />
 			{% endunless %}
 		{% endif %}
-		{% if page.play-notes %}
-			{{ page.play-notes }}
-		{% endif %}
+		<small>
+			{% if page.play-notes %}
+				{{ page.play-notes }}
+			{% endif %}
+		</small>
 	</div>
 
 	<hr />

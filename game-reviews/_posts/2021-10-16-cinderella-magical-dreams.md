@@ -3,7 +3,17 @@ title: "Cinderella: Magical Dreams"
 platform: GBA
 release: 2005
 dev: DC Studios
-played-on: 2021-08-28
+
+date-played: 2021-08-28
+played-on: Linux
+played-using: mGBA
+
+series: ["Disney", "Disney Princesses", "Cinderella"]
+genres: ["2D platformer"]
+tags: ["children's", "licensed", "character license"]
+protagonist: ["woman", "mouse", "animal", "non-human male", "multiple protagonists"]
+save-method: normal
+can-you-pet-the-cat: no
 ---
 
 ## Overview

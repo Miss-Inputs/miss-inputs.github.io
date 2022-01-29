@@ -2,8 +2,17 @@
 platform: Game Boy
 release: 1989
 dev: Nintendo R&D 1
-played-on: 2021-08-07
-game-notes: DX hack by toruzz, 2019
+game-version: DX hack by toruzz, 2019
+available-at: 3DS eShop
+
+date-played: 2021-08-07
+played-on: RG351M
+played-using: Gambatte (libretro)
+
+series: ["Mario", "Super Mario", "Super Mario Land"]
+genres: ["2D platformer", "shmup", "horizontal shmup"]
+tags: ["unlockable harder difficulty"]
+save-method: none
 ---
 
 So theoretically this is going to be a quick review, once I get around to writing it, for a quick game. Haven't played this before. But it's a popular game, enough to have its own 

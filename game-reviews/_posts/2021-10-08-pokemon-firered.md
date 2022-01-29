@@ -3,8 +3,16 @@ title: Pokemon FireRed
 platform: GBA
 release: 2004
 dev: Game Freak
-played-on: 2021-08-18
+
+date-played: 2021-08-18
 play-notes: Replay
+played-on: RG351M
+played-using: mGBA (libretro)
+
+series: ["Pokemon"]
+genres: ["RPG", "monster collecting RPG", "turn based RPG"]
+tags: ["remake", "paired version", "e-Reader"]
+accessibility-issues: ["socialization required", "paired version", "time limited events"]
 ---
 
 ## Blah blah intro (this section won't be here for other reviews)

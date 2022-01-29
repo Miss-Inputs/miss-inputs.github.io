@@ -3,7 +3,19 @@ title: H*rry* P*tt*r and the Ph*l*s*ph*r's St*n*e
 platform: GBA
 release: 2001
 dev: Griptonite Games
-played-on: 2021-05-12
+
+date-played: 2021-05-12
+played-on: RG351M
+played-using: mGBA (libretro)
+
+series: H*rry P*tt*r
+genres: ["action-adventure", "top-down action-adventure", "top-down adventure", "isekai"]
+tags: ["school", "licensed", "book license", "difficult"]
+content-warnings: ["problematic source material"]
+accessibility-issues: ["mandatory stealth segment"]
+protagonist: ["boy", "child"]
+save-method: save points
+
 ---
 
 Now you may be thinking some variation of “why are you playing this game?”, and that is a valid question to ask. Or you are just saying “don’t support this franchise” which is also a valid thing to say. I actually can’t remember the real reason why I started. I think it’s because I made the mistake of playing this game when I was a smol kiddo, and so now I have to make myself remember it. Look all I can come up with is that I’m some variety of masochist.
