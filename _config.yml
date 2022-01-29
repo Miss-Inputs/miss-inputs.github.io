@@ -11,6 +11,7 @@ github_username:  zowayix
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jemoji
 defaults:
   -
     scope:
