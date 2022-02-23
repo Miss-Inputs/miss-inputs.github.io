@@ -16,11 +16,13 @@ accessibility-issues: ["socialization required", "paired version", "time limited
 ---
 
 ## Blah blah intro (this section won't be here for other reviews)
+
 Hello! Apologies for not getting around to posting this for almost over two months. I have been dead. I kept telling myself, okay, I might be dead but still go write the thing, but it turns out being dead is hard to recover from. Hopefully, though, I can finish this tonight. Even though I am not really that much alive still.
 
 I've decided to split reviews up into sections now. Maybe that will help me write them more easily. Maybe I will change my mind, decide it's a bad idea entirely, or go with different sections. Who knows. Maybe it will make the reviews easier to follow for people rather than having a big ol' chunk of text like I have done previously. For whoever does read these.
 
 ## Overview
+
 ![Pokemon are so nice to hug!]({% link game-reviews/images/firered.png %})
 
 So this is a bit of a non-standard review as I had technically started FireRed like a year ago. It's not at all that it took me that long to finish, just that I ended up forgetting about it competely due to things in life happening and only getting back to it recently. Played it with an actual cart at first, actually, and then on the RG351M once I actually got that. So that save file has been all over the place. I'm not one for Nuzlockes or any kind of challenge runs like that, I like to experience these games as just normal standalone experiences. Controversial opinion these days, I'm just a Pokemon fan. I just felt like playing FireRed at some point, and I felt like continuing it at some point.
@@ -44,6 +46,7 @@ It's also let down by some things that are resolved in newer games, like TMs bei
 Anyway, there are some nice graphics and music here, these rearrangements of the gen 1 music will remain my favourite. The art style I guess probably looks a bit… small? For a GBA game? But it works. If you imagine the sprites being 2 or 3 times the size they are just to show off that the GBA can, it'd probably look and play like shit, so I'm glad they didn't do that, and instead stuck to what works. It's not like they're ugly sprites or anything.
 
 ## Accessibility/gotchas/fuck yous
+
 Hmm I'm not sure what to call this section, but for this game it's important. I need to address the elephant in the room - the whole paired version gimmick. Yes, that applies to all Pokemon games, but if I'm going to pretend to review this game in a vacuum…
 
 Honestly? Perform a stop it.
