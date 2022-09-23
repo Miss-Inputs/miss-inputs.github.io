@@ -1,13 +1,13 @@
 theme: jekyll-theme-cayman
-title: zowayix.github.io
-description: Megan (Zowayix)'s projects and blogs etc
+title: Megan's Generically Named Site
+description: Game reviews and blogs and etc
 footer-links:
-  twitter: catgirl_megan
+  twitter: miss_inputs
 collections:
   posts:
     permalink: /blog/:categories/:slug
-twitter_username: catgirl_megan
-github_username:  zowayix
+twitter_username: miss_inputs
+github_username:  Miss-Inputs
 markdown: kramdown
 plugins:
   - jekyll-feed
