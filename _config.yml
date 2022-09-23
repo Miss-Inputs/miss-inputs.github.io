@@ -1,17 +1,26 @@
 theme: jekyll-theme-cayman
+lang: en_AU
 title: Megan's Generically Named Site
-description: Game reviews and blogs and etc
+tagline: Game reviews etc
+description: Blog posts inc game reviews and also links to other stuff
 footer-links:
   twitter: miss_inputs
 collections:
   posts:
     permalink: /blog/:categories/:slug
+author:
+  name: Megan
+  twitter: miss_inputs
+twitter:
+  miss_inputs
+#How many times am I putting my own Twitter handle in here? Oh well
 twitter_username: miss_inputs
 github_username:  Miss-Inputs
 markdown: kramdown
 plugins:
   - jekyll-feed
   - jemoji
+  - jekyll-sitemap
 defaults:
   -
     scope:
@@ -19,6 +28,14 @@ defaults:
     values:
       layout: "game-review"
 strict_front_matter: true
+social:
+  name: Miss Inputs
+  links:
+    - https://twitter.com/miss_inputs
+    - https://github.com/Miss-Inputs
+    - https://twitch.tv/miss_inputs
+    - https://howlongtobeat.com/user/Zowayix
+google_site_verification: DmfSQRPYQfy_sAN5a_flgKABPoOXT0fsfkGRSbN9
 
 #email: your-email@example.com
 #description: >- # this means to ignore newlines until "baseurl:"
