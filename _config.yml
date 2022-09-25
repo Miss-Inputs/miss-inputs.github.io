@@ -36,6 +36,9 @@ social:
     - https://twitch.tv/miss_inputs
     - https://howlongtobeat.com/user/Zowayix
 google_site_verification: DmfSQRPYQfy_sAN5a_flgKABPoOXT0fsfkGRSbN9-Zg
+feed:
+  categories:
+    - game-reviews
 #email: your-email@example.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this

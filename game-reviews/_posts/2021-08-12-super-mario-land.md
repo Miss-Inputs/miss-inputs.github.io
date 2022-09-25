@@ -4,6 +4,7 @@ release: 1989
 dev: Nintendo R&D 1
 game-version: DX hack by toruzz, 2019
 available-at: 3DS eShop
+image: /game-reviews/images/super-mario-land.png
 
 date-played: 2021-08-07
 played-on: RG351M
@@ -11,14 +12,17 @@ played-using: Gambatte (libretro)
 
 series: ["Mario", "Super Mario", "Super Mario Land"]
 genres: ["2D platformer", "shmup", "horizontal shmup"]
-other-categories: ["unlockable harder difficulty"]
+tags: ["unlockable harder difficulty"]
+protagonist: male
 save-method: none
+rating: 5
+difficulty-rating: 4
 ---
 
 So theoretically this is going to be a quick review, once I get around to writing it, for a quick game. Haven't played this before. But it's a popular game, enough to have its own 
 [early 90s dance song](https://www.youtube.com/watch?v=A2nF92mu8X0) about it, so of course I have to. As one of the Game Boy's launch titles, it interests me to go back to where the Game Boy began, and it interests me more than Tetris. Maybe I just don't really care for Tetris that much (wow there's my hot take already), but also you can play that on anything. Super Mario Land is its own experience, and also having a side scrolling platform game really is something when you time travel back to 1989, before I was born, and compare it to a Microvision or a Game & Watch or that sort of thing.
 
-![Screenshot from DX hack]({% link game-reviews/images/super-mario-land.png %})
+![Screenshot from DX hack]({{ page.image }})
 
 The main thing to be said about this game is that it's just plain weird, coming from experience with any other Mario game. It makes sense given it was developed by a completely different development team in Nintendo, but I'm not a game historian writer, so I can't tell you what was going on there. But even if it makes sense for it to be weird, it's still weird. In all fairness Mario looking weird there is because of the DX hack (that adds colour, as monochrome graphics do not have any special place in my heart because I am too young for that). But Mario's appearance in the vanilla game (which looks more or less like the SMB1 sprite) is the only normal thing, really.
 

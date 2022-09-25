@@ -11,11 +11,14 @@ played-using: mGBA (libretro)
 
 series: Metroid
 genres: ["metroidvania", "run & gun", "horror"]
-other-categories: ["remake", "partial remake", "space"]
-protagonist: ["woman"]
+tags: ["remake", "partial remake", "space"]
+protagonist: ["female", "humanoid", "bounty hunter"]
 accessibility-issues: ["mandatory stealth segment"]
 save-method: save-points
 engine: Wario Land 4
+rating: 5
+difficulty-rating: 5
+image: /game-reviews/images/metroid-fusion-amogus.png
 ---
 
 It’s 351ELEC’s game of the moment time again! I’d been wanting to play this one anyway, so it just meant I moved it to the top of the list. I wanted to get into Metroid, because it just seems like the kind of cool thing that I would like, but otherwise I’ve only ever played Metroid Fusion and I ragequat that. Also in order to legally complain about Zero Suit Samus in Smash, I have to play the one game she’s from (wait was she in Other M as well?), so anyway I have all the reasons to jump on in.

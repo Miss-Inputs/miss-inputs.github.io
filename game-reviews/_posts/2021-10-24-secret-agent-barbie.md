@@ -9,11 +9,14 @@ played-on: Linux
 played-using: mGBA
 
 series: Barbie
-protagonist: ["woman", "secret agent"]
+protagonist: ["female", "secret agent"]
 save-method: password
 genres: ["2D platformer", "stealth"]
-other-categories: ["children's", "licensed", "toy license"]
+tags: ["children's", "licensed", "toy license"]
 accessibility-issues: ["timing required"]
+rating: 1
+difficutly-rating: 4
+image: /game-reviews/images/secret_agent_barbie.png
 ---
 
 ## Overview
@@ -26,7 +29,7 @@ Only problem is, it's a stealth game. She's _that_ kind of secret agent, not the
 
 But this is a game for kids, and I'm okay with that part for starters. But that means it should also be easy, right? More forgiving, and maybe that means it could be a gateway into stealth games? Even if it is sort of a 2D platformer. Spoilers again, it isn't.
 
-![Screenshot where I have thrown perfume at some guy's face]({% link game-reviews/images/secret_agent_barbie.png %})
+![Screenshot where I have thrown perfume at some guy's face]({{ page.image }})
 
 ## What sucks and what doesn't
 

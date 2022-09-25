@@ -13,11 +13,14 @@ play-notes: Replay, previously unfinished
 
 series: ["Mario", "Mario RPG", "Mario & Luigi"]
 genres: ["RPG", "top-down adventure", "RPG with ATB"]
-protagonist: ["man", "multiple protagonists"]
-other-categories: ["Game Boy Player rumble"]
+protagonist: ["male", "multiple protagonists", "duo", "siblings"]
+tags: ["Game Boy Player rumble"]
 accessibility-issues: ["timing required", "colour blindness"]
 technical-notes: Game Boy Player for rumble, but causes issues
 save-method: save points
+rating: 7
+difficulty-rating: 4
+image: /game-reviews/images/mlss.png
 ---
 
 I finished this game… a whole month ago? I just forgot to ever write a review for it. Which is ironic because I also originally forgot to finish this game. Played a long time ago. Don't remember how long ago, but I'm sure I remember pirating it as a young teenager in the mid-2000s when this game was all the rage and everyone liked to rip sprites from it. I think I got stuck somewhere. But that won't do… if I'm going to play all the video games, surely I should finish what I've started, right? Especially something that I keep saying is a game I really like - but how can I say that if I never played it all the way through? Some would argue that it's perfectly valid to say a game is your favourite if you never finished it, or even if you haven't played it at all, and I have no problem with using that definition if they want. I can't vibe with that though.

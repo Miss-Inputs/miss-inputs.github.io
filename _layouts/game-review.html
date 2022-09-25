@@ -50,6 +50,6 @@ seo:
 	<hr />
 
 	<footer>
-		<div class="categories">Posted under: {{ page.genres }}</div>
+		<div class="categories">Posted under: {{ page.genres | join: ", " }}</div>
 	</footer>
 </article>

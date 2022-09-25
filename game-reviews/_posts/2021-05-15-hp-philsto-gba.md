@@ -10,11 +10,14 @@ played-using: mGBA (libretro)
 
 series: H*rry P*tt*r
 genres: ["action-adventure", "top-down action-adventure", "top-down adventure", "isekai"]
-other-categories: ["school", "licensed", "book license", "difficult"]
+tags: ["school", "licensed", "book license"]
+protagonist: ["male", "child"]
 content-warnings: ["problematic source material"]
 accessibility-issues: ["mandatory stealth segment"]
-protagonist: ["boy", "child"]
 save-method: save points
+rating: 2
+difficulty-rating: 5
+image: game-reviews/images/hp-philsto-gba.png
 
 ---
 

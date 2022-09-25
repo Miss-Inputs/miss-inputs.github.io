@@ -7,10 +7,12 @@ available-at: {Steam: https://store.steampowered.com/app/409160/Dr_Langeskov_The
 
 played-on: Linux
 
-protagonist: ["unidentified"]
-genres: ["narrative adventure", "adventure", "narrative", "comedy"]
-other-categories: ["first person", "short", "free", "easy"]
+genres: ["adventure", "narrative", "comedy"]
+protagonist: "unidentified"
+tags: ["first person", "short", "free"]
 engine: Unity
+rating: 2
+difficulty-rating: 1
 ---
 
 A walking adventure by the same director as the Stanley Parable? Sign me up! Even if it’s just a free thing that is expectedly short, it should be fine, right? Besides, the name is very long and it sticks out like a sore thumb in my backlog spreadsheet.

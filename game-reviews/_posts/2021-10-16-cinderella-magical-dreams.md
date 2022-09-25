@@ -10,10 +10,12 @@ played-using: mGBA
 
 series: ["Disney", "Disney Princesses", "Cinderella"]
 genres: ["2D platformer"]
-other-categories: ["children's", "licensed", "character license"]
-protagonist: ["woman", "mouse", "animal", "non-human male", "multiple protagonists"]
+tags: ["children's", "licensed", "character license", "you cannot pet the cat"]
+protagonist: ["female", "mouse", "animal", "non-human", "male", "multiple protagonists"]
 save-method: normal
-can-you-pet-the-cat: no
+image: /game-reviews/images/cindrella-kitty.png
+rating: 1
+difficulty-rating: 1
 ---
 
 ## Overview
