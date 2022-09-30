@@ -66,6 +66,12 @@ seo:
 			{{ page.play-notes }}<br />
 		{% endif %}
 	</small>
+	{%if page.rating%}
+	Rating: {{page.rating}}/5<br />
+	{%endif%}
+	{%if page.difficulty-rating %}
+	Rating: {{page.difficulty-rating}}/5<br />
+	{%endif%}
 </div>
 
 <hr />
