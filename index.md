@@ -16,7 +16,7 @@ Many other projects that I have forgotten about or abandoned! Maybe some that ar
 # Game reviews
 
 {% for post in site.categories.game-reviews %}
-- [{{ post.title | replace: "*", "\*" }} ({{ post.platform }}, {{ post.release}}, {{ post.dev }}){%- if post.game-version %} ({{ post.game-version }}) {%- endif -%}{%- if post.play-notes %} ({{ post.play-notes }}) {%- endif -%}]({{ post.url }})
+- [{{ post.title | replace: "*", "\*" }} ({{ post.platform }}, {%unless post.release.size%}{{post.release | date_to_string | date: "%Y "}}{%else%}{{post.release}}{%endunless%}, {{ post.dev }}){%- if post.game-version %} ({{ post.game-version }}) {%- endif -%}{%- if post.play-notes %} ({{ post.play-notes }}) {%- endif -%}]({{ post.url }})
 {% endfor %}
 
 # Blog posts (just tests for now)

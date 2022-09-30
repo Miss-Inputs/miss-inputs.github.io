@@ -20,7 +20,11 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jemoji'
+  gem "jekyll-remote-theme"
+  gem "jekyll-sitemap"
 end
+gem "jekyll-docs-theme"
+
 
 # kramdown v2 ships without the gfm parser by default. If you're using
 # kramdown v1, comment out this line.

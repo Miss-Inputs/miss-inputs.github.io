@@ -1,55 +1,99 @@
 ---
-layout: default
+layout: page
 seo:
   #Note: This doesn't actually work, see https://github.com/jekyll/jekyll-seo-tag/issues/338
   type: Review
 ---
 
-<article class="post">
-	<h1>{{ page.title }}</h1>
-	<div class="gameinfo">
-		<small>
-		Platform: {{ page.platform }}<br />
-		Release year: {{ page.release }}<br />
-		Developer: {{ page.dev }}<br />
-		{% if page.game-version %}
-			{{ page.game-version }}
-		{% endif %}
-		
-		{% if page.game-notes %}
-			{{ page.game-notes }}
-		{% endif %}
-		</small>
-	</div>
-	
-	<hr />
+<div class="gameinfo">
+	<small>
+	Platform: {{ page.platform }}<br />
+	Release date: {{ page.release }}<br />
+	Developer: {{ page.dev }}<br />
 
-	<div class="playinfo">
-		Posted on: {{ page.date | date_to_string }}<br />
-		{% if page.date-played %}
-			{%- comment -%}Surely comparing two dates isn't this annoying…{%- endcomment -%}
-			{% assign temp = page.date | date: "%Y-%m-%d" %}
-			{% assign temp2 = page.date-played | date: "%Y-%m-%d" %}
-			{% unless temp == temp2 %}
-				Finished on: {{ page.date-played | date_to_string }}<br />
-			{% endunless %}
-		{% endif %}
-		<small>
-			{% if page.play-notes %}
-				{{ page.play-notes }}
+	{% if page.available-at %}
+		Available from: 
+		{% if page.available-at.first %}{%- comment -%}This is a wack way of determining if things are an array… we check for hash too{%- endcomment -%}
+			{% if page.available-at.first.first %}
+				<ul>{% for item in page.available-at %}
+					<li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
+				{% endfor %}</ul>
+			{% else %}
+				{% for item in page.available-at %}
+					{{ item }}{% unless forloop.last %}, {% endunless %}
+				{% endfor %}<br />
 			{% endif %}
-		</small>
-	</div>
+		{% else %}
+			{%assign annoying_way_to_check_starts_with = page.available-at | split: "http" %}
+			{%if annoying_way_to_check_starts_with[0] == empty%}
+				<a href="{{ page.available-at }}">{{ page.available-at }}</a><br />
+			{%else%}
+				{{page.available-at}}<br />
+			{%endif%}
+		{% endif %}
+	{% endif %}
 
-	<hr />
+	{% if page.game-version %}
+		{{ page.game-version }}
+	{% endif %}
+	
+	{% if page.game-notes %}
+		{{ page.game-notes }}
+	{% endif %}
+	</small>
+</div>
 
-	<div class="content">
-		{{ content }}
-	</div>
+<hr />
 
-	<hr />
+<div class="playinfo">
+	Posted on: {{ page.date | date_to_string }}<br />
+	{% if page.date-played %}
+		{%- comment -%}Surely comparing two dates isn't this annoying…{%- endcomment -%}
+		{% assign temp = page.date | date: "%Y-%m-%d" %}
+		{% assign temp2 = page.date-played | date: "%Y-%m-%d" %}
+		{% unless temp == temp2 %}
+			Finished on: {{ page.date-played | date_to_string }}<br />
+		{% endunless %}
+	{% endif %}
+	<small>
+		{% if page.played-on %}
+			Played on: {{ page.played-on}}<br/>
+		{% endif %}
+		{% if page.played-using %}
+			Played using: {{ page.played-using}}<br/>
+		{% endif %}
+		{% if page.play-notes %}
+			{{ page.play-notes }}<br />
+		{% endif %}
+	</small>
+</div>
 
-	<footer>
-		<div class="categories">Posted under: {{ page.genres | join: ", " }}</div>
-	</footer>
-</article>
+<hr />
+{{ content }}
+<hr />
+
+<footer>
+	<small>
+		{%if page.genres%}
+		Genres: {{ page.genres | join: ", " }}<br />
+		{%endif%}
+		{%if page.tags%}
+		Tags: {{ page.tags | join: ", " }}<br />
+		{%endif%}
+		{%if page.engine%}
+		Engine: {{ page.engine}}<br />
+		{%endif%}
+		{%if page.content-warnings%}
+		Content warnings: {{ page.content-warnings | join: ", " }}<br />
+		{%endif%}
+		{%if page.accessibility-issues%}
+		Accessibility issues: {{ page.accessibility-issues | join: ", " }}<br />
+		{%endif%}
+		{%if page.technical-notes%}
+		Technical notes: {{ page.technical-notes | join: ", " }}<br />
+		{%endif%}
+		{%if page.save-method%}
+		Save method: {{ page.save-method | join: ", " }}<br />
+		{%endif%}
+	</small>
+</footer>
