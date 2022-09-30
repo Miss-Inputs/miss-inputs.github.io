@@ -1,4 +1,3 @@
-#theme: jekyll-theme-cayman
 lang: en_AU
 title: Megan's Generically Named Site
 tagline: Game reviews etc
@@ -42,6 +41,7 @@ feed:
   categories:
     - game-reviews
 remote_theme: allejo/jekyll-docs-theme@v1.0.0
+disqus: false
 #email: your-email@example.com
 #description: >- # this means to ignore newlines until "baseurl:"
 #  Write an awesome description for your new site here. You can edit this
