@@ -14,6 +14,7 @@ genres: ["RPG", "monster collecting RPG", "turn based RPG"]
 tags: ["remake", "paired version", "e-Reader"]
 accessibility-issues: ["socialization required", "paired version", "time limited events"]
 image: /game-reviews/images/firered.png
+rating: 7
 ---
 
 ## Blah blah intro (this section won't be here for other reviews)
