@@ -25,3 +25,8 @@ Many other projects that I have forgotten about or abandoned! Maybe some that ar
 ## {{ post.date | date_to_string }} [{{ post.title }}]({{ post.url }})
 {{ post.excerpt }}
 {% endfor %}
+
+# Other places
+[Bluesky](https://bsky.app/profile/miss-inputs.bsky.social)
+[The less cool site](https://twitter.com/miss_inputs)
+[YouTube](https://www.youtube.com/channel/UC8-LZ9t9ojFCraMYuXuj1ZA)
