@@ -13,14 +13,14 @@ genre: ["visual novel"]
 tags: ["horror", "psychological horror", "psychosis", "russia"]
 protagonist: ["female", "human", "mentally ill"]
 
-image: /game-reviews/images/milk_inside_milk.jpg
+image: /game-reviews/images/milk-inside-milk.jpg
 ---
 
 I lied, I'm doing one more review this year. Maybe just a short one, because here we have a short visual novel, about 15 minutes long depending on how fast you read. Don't worry about the game's store page making it sound like it's some genre that doesn't exist, it's a visual novel and there's nothing wrong with that.
 
 I also didn't really know what this one was about going in, but it seems it's more so about a girl that everyone calls Milk-chan because she has no name, who has some variety of mental illness. Poor thing. The author of the game probably doesn't know because she says she'd rather not share her diagnoses, though I guess maybe they just didn't want to stigmatize whatever it is.
 
-![Most of the game looks like this]({% link game-reviews/images/milk_inside_milk.jpg %})
+![Most of the game looks like this]({% link game-reviews/images/milk-inside-milk.jpg %})
 
 It's hard to review because it sort of feels like the concept of the game is the plot twist? Kind of. I think I'm allowed to say that Milk-chan talks to you, personally, as the player, and then things go from there as she attempts to buy milk from the store. It's supposed to be a horror game, but I'm not so sure? Maybe I just personally didn't feel that way. I don't want to be all like "to me, this is just an ordinary trip to the store", it's just that I moreso thought it was an interesting and touching story, and I'm not sure what I'd be scared of. I didn't feel like Milk-chan was creepy or anything. If anything it was almost relatable, except for the hallucinations. 
 
